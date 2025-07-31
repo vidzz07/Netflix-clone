@@ -7,8 +7,8 @@ A fully responsive, animated Netflix homepage clone built using **HTML** and **C
 
 ## 📸 Preview
 
-![Netflix Clone Screenshot](<img width="1904" height="862" alt="Screenshot 2025-07-31 122113" src="https://github.com/user-attachments/assets/986dc1d7-d601-44f5-be49-1f3393056e63" />
-) 
+[Netflix Clone]<img width="1904" height="862" alt="Screenshot 2025-07-31 122113" src="https://github.com/user-attachments/assets/c35efe2e-6916-4292-9542-3434a76afae3" />
+
 
 ---
 
